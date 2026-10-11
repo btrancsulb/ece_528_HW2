@@ -11,8 +11,7 @@ Embedded systems commonly use hardware timers for:
 - Periodic interrupts, such as a scheduler tick or a control-loop sample
 - Pulse-width modulation for motors, servos, and LEDs
 - Input capture, to measure pulse width, frequency, or encoder edges
-- Timeouts and delays
-- Baud-rate or sample-rate generation for serial and ADC peripherals
+- interrupts and delays
 
 ## 2. Clock signal and MSP432P401R clock sources
 
